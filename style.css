@@ -181,3 +181,8 @@ a:hover {
   top: 40%;
   left: 33%;
 }
+
+@font-face {
+  font-family: "Courier Prime";
+  src: url("font/Courier Prime.ttf");
+}
